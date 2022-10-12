@@ -1,8 +1,8 @@
-**Twitter-Sentiment-Analysis-and-Prediction**
+## Twitter-Sentiment-Analysis-and-Prediction
 
 This notebook does not forcus on optimize the predict model to get the best performance result. Instead, the model use only text column to concentrate on feature engineer in NLP and Sentiment Analysis
 
-Index:
+## Index:
 
 1. TF-IDF and fit the model: Go through the brief process and fit model with Logistic Regression
 
