@@ -11,3 +11,6 @@ This notebook does not forcus on optimize the predict model to get the best perf
 3. Predict with RandomForest and Xgboost model: try other model to see whether performance can be improved
 
 4. Sentiment Analysis with WordCloud: Visualize the top extreme word that affect the sentiment result, wordcloud base on ranking not the frequency.
+
+<img width="603" alt="image" src="https://user-images.githubusercontent.com/91353356/195222258-6a08fe72-fd15-4498-965e-f20d8d69f91c.png">
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/91353356/195222277-252ce81d-cdef-42a0-9d1f-a622c5dbb095.png">
