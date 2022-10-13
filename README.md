@@ -1,6 +1,6 @@
 ## Twitter-Sentiment-Analysis-and-Prediction
 
-This notebook does not forcus on optimize the predict model to get the best performance result. Instead, the model use only text column to concentrate on feature engineer in NLP and Sentiment Analysis
+A sentiment analysis job about the problems of each major U.S. airline. The model use only text column to concentrate on feature engineer in NLP, model will determine whether a text is expressing sentiments that are positive, negative, or neutral.
 
 ## Index:
 
