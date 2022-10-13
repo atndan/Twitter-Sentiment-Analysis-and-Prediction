@@ -1,6 +1,6 @@
 ## Twitter-Sentiment-Analysis-and-Prediction
 
-A sentiment analysis job about the problems of each major U.S. airline. The model use only text column to concentrate on feature engineer in NLP, model will determine whether a text is expressing sentiments that are positive, negative, or neutral.
+A sentiment analysis job about the problems of each major U.S. airline. The model uses most of feature engineer in NLP and determine whether a text is expressing sentiments that are positive, negative, or neutral.
 
 ## Index:
 
